@@ -1,4 +1,4 @@
-package com.wistron.wcd.multithread.httpdemo;
+package com.wistron.wcd.httpdemo;
 
 public class HttpDemo {
 }

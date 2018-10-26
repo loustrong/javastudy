@@ -1,4 +1,4 @@
-package com.wistron.wcd.study;
+package com.wistron.wcd.httpdemo;
 
 
 import net.sf.json.JSONObject;
